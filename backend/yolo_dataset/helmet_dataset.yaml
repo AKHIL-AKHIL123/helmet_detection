@@ -1,0 +1,7 @@
+names:
+  0: helmet
+  1: head
+nc: 2
+path: C:\Users\Akhil\Desktop\helmet_detection\backend\yolo_dataset
+train: images/train
+val: images/val
