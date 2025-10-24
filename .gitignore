@@ -84,6 +84,7 @@ cython_debug/
 dataset/
 data/
 datasets/
+backend/yolo_dataset/
 runs/
 weights/
 results/
